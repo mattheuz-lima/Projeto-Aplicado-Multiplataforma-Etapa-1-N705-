@@ -65,12 +65,12 @@ O sistema será multiplataforma, composto por:
 - **João Rodrigues - 2319025** – Arquitetura (`architecture.md`)  
 - **Wanderson Silva - 2323860** – Banco de Dados (`database_model.md`)  
 - **Rayane Santos - 2326292** – APIs (`api_specification.md`)  
-- **Kamilly Braz - 2323788** – Prototipação (Visily, wireframes)  
+- **Kamilly Braz - 2323788** – Prototipação (`prototypes.gitkeep`)  
 
 ---
 
 ## 🔗 Links Importantes
-- **Protótipo no Figma:** _(inserir link aqui)_  
+- **Protótipo no Visily:** _(inserir link aqui)_  
 - **Documentação completa:**  
   - [Requisitos](docs/requirements/requirements.md)  
   - [Arquitetura](docs/architecture/architecture.md)  
