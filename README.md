@@ -46,7 +46,7 @@ O sistema será multiplataforma, composto por:
 - **Frontend:** React.js / React Native ou Flutter  
 - **Backend:** Node.js + Express  
 - **Banco de Dados:** PostgreSQL  
-- **Prototipação:** Figma  
+- **Prototipação:** Visily 
 - **Documentação de APIs:** Swagger  
 - **Controle de versão:** Git + GitHub  
 
