@@ -60,12 +60,12 @@ O sistema será multiplataforma, composto por:
 ---
 
 ## 👥 Equipe e Papéis
-- **Matheus Lima** – README.md / Coordenação geral  
-- **Integrante 2** – Requisitos (`requirements.md`)  
-- **Integrante 3** – Arquitetura (`architecture.md`)  
-- **Integrante 4** – Banco de Dados (`database_model.md`)  
-- **Integrante 5** – APIs (`api_specification.md`)  
-- **Integrante 6** – Prototipação (Figma, wireframes)  
+- **Matheus Lima - 2323842** – README.md / Coordenação geral  
+- **José William - 2326237** – Requisitos (`requirements.md`)  
+- **João Rodrigues - 2319025** – Arquitetura (`architecture.md`)  
+- **Wanderson Silva - 2323860** – Banco de Dados (`database_model.md`)  
+- **Rayane Santos - 2326292** – APIs (`api_specification.md`)  
+- **Kamilly Braz - 2323788** – Prototipação (Visily, wireframes)  
 
 ---
 
