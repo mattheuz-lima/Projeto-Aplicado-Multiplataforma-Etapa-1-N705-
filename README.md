@@ -38,7 +38,7 @@ O sistema será multiplataforma, composto por:
 - **APIs REST:** Serviços para cadastro, consulta e gerenciamento de dados.  
 
 📌 O **diagrama detalhado** da arquitetura estará disponível em:  
-`docs/architecture/architecture.md`
+- [docs/architecture/architecture.md](docs/architecture/architecture.md)  
 
 ---
 
