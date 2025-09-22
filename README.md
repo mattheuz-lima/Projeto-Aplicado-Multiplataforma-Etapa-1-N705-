@@ -71,8 +71,9 @@ O sistema será multiplataforma, composto por:
 
 ## 🔗 Links Importantes
 - **Protótipo no Visily:** _(inserir link aqui)_  
-- **Documentação completa:**  
-  - [Requisitos](docs/requirements/requirements.md)  
+- **Documentação completa:**
+  - [Requisitos](docs/requirements/requirements.md)
+  - [Prototipos](docs/prototypes.gitkeep)  
   - [Arquitetura](docs/architecture/architecture.md)  
   - [Banco de Dados](docs/database/database_model.md)  
   - [APIs](docs/api/api_specification.md)  
