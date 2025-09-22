@@ -53,9 +53,40 @@ O sistema será multiplataforma, composto por:
 ---
 
 ## 📅 Cronograma da Etapa 2 (N708)
-- **Semanas 1–2:** Desenvolvimento do Backend (APIs, banco de dados).  
-- **Semanas 3–4:** Desenvolvimento do Frontend (Web e Mobile).  
-- **Semana 5:** Integração, testes e ajustes finais.  
+
+- **Semanas 1–2**
+  - Configuração do repositório de código
+  - Criação do ambiente de desenvolvimento
+  - Definição da estrutura do backend (Node.js + Express)
+  - Configuração inicial do banco de dados PostgreSQL
+
+- **Semanas 3–4**
+  - Desenvolvimento dos endpoints principais da API:
+    - Cadastro e autenticação de usuários
+    - Cadastro e listagem de itens
+    - Cadastro e gerenciamento de pontos de apoio
+  - Documentação da API no Swagger
+
+- **Semanas 5–6**
+  - Desenvolvimento do frontend Web (React.js)
+  - Implementação das telas de:
+    - Login e cadastro
+    - Página inicial com listagem de itens
+    - Cadastro de itens para doação/troca
+  - Integração com os endpoints já criados
+
+- **Semanas 7**
+  - Desenvolvimento do frontend Mobile (React Native / Flutter)
+  - Implementação das telas principais equivalentes ao Web
+  - Integração com APIs
+  - Ajustes de usabilidade e responsividade
+
+- **Semana 8**
+  - Integração completa (Frontend + Backend + Banco)
+  - Testes funcionais e validação do sistema
+  - Correções de bugs
+  - Preparação e entrega final do projeto
+ 
 
 ---
 
