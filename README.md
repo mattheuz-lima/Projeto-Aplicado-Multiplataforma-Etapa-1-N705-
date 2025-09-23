@@ -101,7 +101,12 @@ O sistema será multiplataforma, composto por:
 ---
 
 ## 🔗 Links Importantes
-- **Protótipo no Visily:** _(inserir link aqui)_  
+- **Protótipo no Visily:** 
+
+- Link do protótipo MOBILE: https://app.visily.ai/projects/d6fc3786-4d72-42c3-a96c-89e1877c4441/boards/1881133
+
+- Link do protótipo WEB - https://app.visily.ai/projects/de093b13-424f-4045-a815-8eb03eef0480/boards/2213632)_ 
+
 - **Documentação completa:**
   - [Requisitos](docs/requirements/requirements.md)
   - [Prototipos](docs/prototypes.gitkeep)  
