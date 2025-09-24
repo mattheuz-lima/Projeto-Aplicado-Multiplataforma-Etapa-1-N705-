@@ -96,7 +96,7 @@ O sistema será multiplataforma, composto por:
 - **João Rodrigues - 2319025** – Arquitetura (`architecture.md`)  
 - **Wanderson Silva - 2323860** – Banco de Dados (`database_model.md`)  
 - **Rayane Santos - 2326292** – APIs (`api_specification.md`)  
-- **Kamilly Braz - 2323788** – Prototipação (`prototypes.gitkeep`)  
+- **Kamilly Braz - 2323788** – Prototipação (`prototypes`)  
 
 ---
 
